@@ -5,3 +5,7 @@ Printed Circuit Boards (PCBs) form the foundation of modern electronic systems, 
 Dataset used [here](https://drive.google.com/drive/folders/1H_HLFxaAX6BLSl3191Evfy9eGQpY63NJ?usp=sharing).
 
 Watch the working demo [here](https://drive.google.com/drive/folders/1UhtR9qsVqafdz84HBG3HzH4YUdSElita).
+
+Project code file [here](https://colab.research.google.com/drive/1go1iSIuLtjhT5IvvSIjvKNf6di41CGg8?usp=sharing).
+
+
